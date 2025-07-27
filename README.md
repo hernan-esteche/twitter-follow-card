@@ -1,12 +1,20 @@
-# React + Vite
+# Twitter Follow Card con React, Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una **tarjeta de seguimiento para Twitter** creada con **React** para la interfaz, **Tailwind CSS** para estilos rápidos y responsivos, y **Biome** para formateo y linting del código, asegurando calidad y consistencia.
 
-Currently, two official plugins are available:
+## Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Componente reutilizable que muestra la información de un usuario de Twitter (nombre, usuario, avatar, estado de seguimiento).
+- Diseño limpio y moderno con Tailwind CSS.
+- Manejo de estado en React para togglear el seguimiento.
+- Código limpio y mantenible gracias a Biome, que ayuda a detectar errores y mantener el estilo.
 
-## Expanding the ESLint configuration
+## Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**: Biblioteca para construir interfaces reactivas.
+- **Tailwind CSS**: Framework CSS utilitario para estilos rápidos y flexibles.
+- **Biome**: Herramienta para linting y formateo de código, manteniendo la calidad durante el desarrollo.
+
+## ✨ Autor
+
+Desarrollado por Hernán Esteche.
